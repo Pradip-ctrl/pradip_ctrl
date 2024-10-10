@@ -1,0 +1,167 @@
+
+Login to MSDP 
+
+https://cagaccess.mbnl.prod.sdt.ericsson.se/Citrix/CAGSwedenWeb/
+
+https://cagaccess.mbnl.prod.sdt.ericsson.se/vpn/index.html
+
+https://selfservicepassword.mbnl.net/PMUser/
+Citrix MBNL
+UID:p3mishra
+Pass:19May197%
+
+UID :pkumarm
+Pass :24@Jan19$73
+https://webaccess.mbnl.net/
+
+Computer : nhtwinfctrds021
+PGadmin Master password :Pradip143
+postgresD3v
+
+MSDP
+UID :EPRADMI
+24Jan#19@73
+
+/home/weblogic/EaiWorkSpace
+
+/app/stage/EAI181_PRA/JDBC_Jar/ojdbc8.jar
+
+https://ericsson-my.sharepoint.com/:f:/p/rahul_s_srivastava/ElKhh1PoYCZEmKDJEe1cfNkBWqe4V1Y6qzJffDUfDXmdOg?e=hh2MJV
+
+EAI18 (file://IN-00209757/Users/epradmi/OneDrive%20-%20Ericsson%20AB/PradipM/Pradip/EAI18)
+
+
+https://eteamproject.ericsson.net/secure/RapidBoard.jspa?rapidView=6739
+
+https://ericsson.sharepoint.com/sites/HardyProgramme_InternalSite?e=1%3Aabc2368dd237442abf30de85e583eac7
+
+https://ericsson.sharepoint.com/sites/HardyProgramme_InternalSite?e=1%3Aabc2368dd237442abf30de85e583eac7
+
+https://gitlab.rosetta.ericssondevops.com/sdu-mela-mbnl-eai/poc_eai/-/network/develop
+
+git clone -b develop ssh://git@git.rosetta.ericssondevops.com:sdu-mela-mbnl-eai/poc_eai.git
+
+git pull : takes pull remote from repository
+ 
+git status   : it will show all changes done in local
+git add <file>
+Stage all changes in <file> for the next commit.
+ 
+git add <directory>
+Stage all changes in <directory> for the next commit.
+ 
+git commit -m "commit comment"
+ 
+git push    : push all changes to remote repository
+ 
+git checkout -b "new Branch"  : it will create a new brnach named "new Branch" and switch to that branch
+ 
+git checkout branch1    : it will switch to existing branch "branch1"
+ 
+git checkout <file>   : it will ignore all changes done after last pull
+
+POC_EAI
+
+git clone -b POC_EAI https://gitlab.rosetta.ericssondevops.com/sdu-mela-mbnl-eai/poc_eai.git
+
+git clone -b develop ssh://git@git.rosetta.ericssondevops.com:2222/sdu-mela-mbnl-eai/poc_eai.git
+
+VPN Access :pradipmishra
+Pass :\cXPSDxXGvXc12
+Ericsson@1234
+
+Sysadm@D3v
+xcomdev3
+ossmbnl
+
+gradle buildAll
+gradle buildGpar
+
+poc_eai\WS\projects\oss-core-modelling-mbnl-mt\source\resources
+Path for Metadata
+
+https://ericsson.sharepoint.com/:x:/r/sites/HardyProgramme_InternalSite/Shared Documents/05_Projects (workpackages)/07_EAI/02_Plans/Staffing Working Schedule and Vacation Tracker/EAI Project Team 2021 Holiday-Vacation Tracking Sheet.xlsx?d=w47d66c9553a14a6c8736b783bdb42dca&csf=1&web=1&e=j1k4Fc
+
+
+https://gitlab.rosetta.ericssondevops.com/sdu-mela-mbnl-eai/poc_eai/-/pipelines/1258526
+
+Invite for IT access
+
+https://gitlab.rosetta.ericssondevops.com/sdu-mela-mbnl-eai/poc_eai/-/project_members
+
+https://sonarqube.rosetta.ericssondevops.com/dashboard?id=MBNL_POC_EAI
+
+Jira & Confluence Guide
+
+https://eteamproject.ericsson.net/plugins/servlet/eazybi/accounts/68/dashboards/549-hardy-nrm-pi7-planned-vs-actual-business-values
+
+issuetype = Epic AND issueFunction in epicsOf("issuetype = story and Sprint =14842  ") 
+issuetype = Epic AND issueFunction in epicsOf("issuetype = story and Sprint =14013")
+
+
+(issuetype = Epic  and Component= 'WP2.2 EAI' )  and fixVersion = PI6_Hardy_Build_RME  ORDER By Key 
+
+Report on EPIC with Sprint
+
+https://eteamspace.ericsson.net/pages/viewpage.action?pageId=153946199
+
+To create Jira dashboard
+
+1. Create team Sprinter2 Spectre in jira
+2. Create the Filter
+3. Create Board
+Seting of columns
+Issue details
+Quick Filters
+
+issuetype = Epic AND issueFunction in epicsOf("issuetype = story and Sprint  in (21091,21085) ")
+
+project = HARBU AND TEAM = 5230 AND issuetype = Story  and Sprint in  (22203,22204,22205) order by  "Epic Link"
+
+TEAM 5210 (NRM ERS)
+TEAM 5303 (Data Migration)
+TEAM 5304 (NRM SIT)
+
+issuetype = Epic AND issueFunction in epicsOf("issuetype = story and Sprint =19107 and Team  in ( 3804 ,5230)")     group By function
+issuetype = Epic AND issueFunction in epicsOf("issuetype = story and Sprint =19361")                  
+
+https://ericsson.sharepoint.com/:f:/r/sites/InventoryManagementFiles/Shared%20Documents/General?csf=1&web=1&e=4vA9cw
+
+https://ericsson.sharepoint.com/:x:/r/sites/InventoryManagementFiles/Shared%20Documents/General/SF_Dashboard_27_Jan_23.xls?d=w0baf9fd5f8644e5aa61de3545afc865f&csf=1&web=1&e=pcCOJ4
+
+oss-core-bulkexport-mt
+oss-core-custom-mbnl-mt
+oss-core-custom-mbnl-ui
+oss-core-integration-mbnl-mt
+oss-core-modelling-mbnl-mt
+oss-core-modelling-mbnl-ui
+
+project = "Hardy Build" AND component = "WP2.2 EAI" AND issuetype = Defects AND status not in (CLOSED, CANCELLED, Deferred, "Not a bug",Duplicate,"Out Of Scope","Not Reproducible") ORDER BY created DESC, assignee DESC, reporter ASC, priority DESC
+
+>Clear browser history and reset 
+->Clear temp file also from recycle bin 
+->Disconnect from all Citrix connection center 
+->Check the Citrix version (Citrix Workspace 19 and above) 
+-> Restart 
+
+https://eteamspace.ericsson.net/display/HRMEF/PI-15+Planning+-+Candidates
+
+https://eteamspace.ericsson.net/display/CSMES/NRM+PI-15++Planning+Output
+
+https://eteamspace.ericsson.net/display/HRMEF/PI-15+-+Planning+Output#tab-Team+Data+Migration+%28SM+-+Pradip+%29\\
+
+
+
+Project="Hardy Build" and team in (3804,5230) and issuetype=Epic and "PI Candidate" =PI16_Hardy_Build_RME and component="WP2.2 EAI" or (project = "Hardy Run Maintain and Enhance" and team in (3804,5230) and issuetype=Epic AND  labels in (NRM_ART) AND labels  not in (Uncommitted) and "PI Candidate"  = PI16_Hardy_Build_RME and status not in (Cancelled)) ORDER BY "FPT Business Priority" 
+
+project in ("Hardy Build","Hardy Run Maintain and Enhance") and component in ("WP2.2 EAI","Transmission Network Deployment Service","Transmission Network Planning Service") and "PI Candidate" in ( PI16_Hardy_Build_RME)  and issuetype = Epic  and  team in (3804,5230,6506,3830,5303,5304) 
+
+PI16 all EPIC
+project in ("Hardy Build","Hardy Run Maintain and Enhance") and component in ("WP2.2 EAI","Transmission Network Deployment Service","Transmission Network Planning Service") and "PI Candidate" in ( PI16_Hardy_Build_RME)  and issuetype = Epic  and  team in (3804,5230,6506,3830,5303,5304) or key in (HARME-19617,HARME-19707,HARME-19709,HARBU-34518,HARME-19710,HARBU-32216,HARBU-35562,HARME-19906,HARBU-34667,HARME-19674) order by fixVersion ASC
+
+project in ("Hardy Build","Hardy Run Maintain and Enhance") and component in ("WP2.2 EAI","Transmission Network Deployment Service","Transmission Network Planning Service") and "PI Candidate" in ( PI16_Hardy_Build_RME) or key in ( (HARME-19617,HARME-19709,HARBU-34518,HARME-19710,HARBU-32216,HARME-19906,HARBU-34667,HARME-19674)) and issuetype = Epic  and  team in (3804,5230,6506,3830,5303,5304) 
+
+
+
+project  in ( "Hardy Build","Hardy Run Maintain and Enhance") AND component  in ( "WP2.2 EAI", "Transmission Network Deployment Service","Transmission Network Planning Service") AND fixVersion  = PI16_Hardy_Build_RME and (summary ~ MOE or summary ~ INCM) and issuetype  in (Story,Defects)
+
