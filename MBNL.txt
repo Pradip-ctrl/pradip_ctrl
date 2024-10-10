@@ -165,3 +165,5 @@ project in ("Hardy Build","Hardy Run Maintain and Enhance") and component in ("W
 
 project  in ( "Hardy Build","Hardy Run Maintain and Enhance") AND component  in ( "WP2.2 EAI", "Transmission Network Deployment Service","Transmission Network Planning Service") AND fixVersion  = PI16_Hardy_Build_RME and (summary ~ MOE or summary ~ INCM) and issuetype  in (Story,Defects)
 
+add new commands
+
